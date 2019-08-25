@@ -24,9 +24,9 @@ Use the custom html tag ```<html-import></hmtl-import>``` as shown below to impo
     <title>Import HTML</title>
 </head>
 <body>
-    <html-import data-src="header.html"></html-import>
-    <html-import data-src="body.html"></html-import>
-    <html-import data-src="./layout/sidebar.html"></html-import>
+    <import-html data-src="header.html"></import-html>
+    <import-html data-src="body.html"></import-html>
+    <import-html data-src="./layout/sidebar.html"></import-html>
     <script src="js/import-html.js"></script>
 </body>
 </html>
