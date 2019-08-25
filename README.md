@@ -10,7 +10,7 @@ Download this project as zip file from the top right of your screen.
 
 ##### Step 1
 
-Use the custom html tag ```<html-import></hmtl-import>``` as shown below to import `html` using the `data-src` attr. 
+Use the custom html tag ```<import-html></import-html>``` as shown below to import `html` using the `data-src` attr. 
 
 ### Exmaple
 
